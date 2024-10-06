@@ -18,25 +18,16 @@ class MainApp extends StatelessWidget {
           ),
         body: Center(
           child: Column(
-            
-          children:[
-          Container(
+            children: [
+              Container(
             height:100,
             width:100,
             color:Colors.blue,
             ),
-          Container(
-            height :100,
-            width:100,
-            color:Colors.black,
-            ),
-            Container(
-            height:100,
-            width:100,
-            color: Colors.amber,
-            ),
-          
             ],
+          
+          
+            
             ),
         ),
       ),
